@@ -2,7 +2,7 @@
 
 ## 1. 程序运行出错，错误提示中包含“ImportError: cannot import name 'config_util' from '__main__'”，如何解决？
 
-出现这种错误，说明使用者很可能是直接运行的.py文件，程序正确的运行方式是在weiboSpider目录下，运行如下命令：
+出现这种错误，说明使用者很可能是直接运行的.py文件，程序正确的运行方式是在weiboSpider目录下，运行如下命令：aaa
 
 ```bash
 python3 -m weibo_spider
